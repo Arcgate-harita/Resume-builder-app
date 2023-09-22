@@ -1,0 +1,319 @@
+
+.achievements {
+    margin-top: 28px;
+}
+
+ .project-info {
+    font-size: 30px;
+    font-family: auto;
+    margin-left: -42px;
+    margin-top: 14px;
+}
+
+.resume .row {
+    display: flex;
+    margin-top: 35px;
+}
+
+.basic-info {
+    font-size: 15px;
+    background-color: #d3d3d36b;
+    width: 107.1%;
+    margin: -30px;
+    margin-top: -65px;
+    height: 254px;
+}
+
+
+.basic-info .name {
+    font-size: 3.4rem;
+    margin-left: 81px;
+    margin-top: 74px;
+    font-family: 'Aboreto', cursive;
+    margin-bottom: 0px;
+   
+}
+
+
+.basic-info .title {
+    color: cadetblue;
+    font-size: 2.5rem;
+    font-family: serif;
+    margin-bottom: 0px;
+    margin-top: 0;
+    margin-left: 84px;
+    font-family: 'Aboreto', cursive;
+}
+
+.resume .email svg {
+    color: cadetblue;
+  height: 16px;
+  width: 16px;
+  margin-right: 10px;
+  margin-left: 30px;
+}
+.resume .address svg {
+    color: cadetblue;
+    height: 16px;
+  width: 16px;
+  margin-right: 10px;
+  margin-left: 30px;
+}
+.resume .number svg {
+    color: cadetblue;
+    height: 16px;
+    width: 16px;
+    margin-right: 10px;
+    margin-left: 31px;
+}
+.resume .link1 svg {
+    color: cadetblue;
+    height: 16px;
+    width: 16px;
+    margin-right: 10px;
+    margin-left: 33px;
+}
+.resume .link2 svg {
+    color: cadetblue;
+    height: 16px;
+    width: 16px;
+    margin-right: 10px;
+    margin-left: 32px;
+}
+
+
+.basic-info .email {
+   
+    margin-bottom: 21px;
+    margin-left: 33px;
+
+}
+.info {
+    margin-left: -30px;
+    width: 372px;
+    border-right: 1px solid;
+}
+
+
+.contact {
+    margin-left: 31px;
+    margin-top: 66px;
+    font-size: 30px;
+    border-bottom: 1px solid;
+    font-family: auto;
+    width: 219px;
+}
+
+.Objective {
+    margin-top: 78px;
+    line-height: 20px;
+    font-family: sans-serif;
+    text-align: justify;
+    font-size: 15px;
+    width: 778px;
+    margin-left: 34px;
+}
+
+.objective-info {
+    font-size: 30px;
+    margin-right: 106px;
+    font-family: auto;
+  }
+
+  .objective{
+    font-size: 1.3rem;
+    margin-top: -1px;
+    text-align: end;
+    text-align: justify;
+    width: 336px;
+    font-family: auto;
+  }
+
+  .column {
+    width: 537px;
+    margin-left: 47px;
+  }
+
+  .work-exp .exp-info {
+    font-size: 30px;
+    font-family: auto;
+    margin-left: -4px;
+  }
+
+  .Education .education-info{
+    margin-top: 66px;
+    font-size: 30px;
+    border-bottom: 1px solid;
+    font-family: auto;
+    width: 219px;
+  }
+
+  .work-exp {
+    margin-top: 75px;
+    line-height: 20px;
+    font-family: sans-serif;
+    text-align: justify;
+    font-size: 15px;
+    width: 778px;
+    margin-left: 34px;
+  }
+
+  .Education {
+    font-size: 30px;
+    font-family: auto;
+    width: 347px;
+    height: 315px;
+    border-right: 1px solid;
+  }
+
+
+.skill-info {
+    margin-top: -60px;
+    font-size: 30px;
+    font-family: auto;
+    border-bottom: 1px solid;
+    width: 226px;
+    margin-left: 85px;
+}
+
+.achievement-info {
+    margin-top: -114px;
+    font-size: 30px;
+    font-family: auto;
+    border-bottom: 1px solid;
+    width: 226px;
+}
+
+.skill-border {
+    margin-left: -77px;
+    font-family: auto;
+    width: 423px;
+    height: 315px;
+    /* border-right: 1px solid; */
+    margin-top: -90px;
+}
+
+
+.Education h2 {
+    font-size: 1.4rem;
+    background-color: lightblue;
+    padding: 10px;
+    width: 890px;
+    margin-left: -30px;
+    text-align: center;
+    text-align: end;
+    margin-top: 500px;
+  }
+
+  .Achievement h2 {
+    font-size: 1.4rem;
+    background-color: lightblue;
+    padding: 10px;
+    width: 890px;
+    margin-left: -30px;
+    text-align: center;
+}
+
+
+.Skills p{
+    margin-left: 84px;
+    font-size: rem;
+    margin-top: 10px;
+}
+
+.print-button {
+    padding: 8px 16px;
+    border-radius: 5px;
+    background-color: #239ce2;
+    color: #fff;
+    outline: none;
+    border: none;
+    font-weight: 500;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .work-exp .job {
+    font-size: 1.5rem;
+    text-decoration-line: underline;
+    margin-top: -5px;
+
+    margin-right: 157px
+}
+
+.work-exp .company {
+    font-size: 1.2rem;
+    color: cadetblue;
+    margin-top: -14px;
+ 
+    margin-right: 132px
+}
+
+.work-exp .start {
+    font-size: 13px;
+    margin-top: -13px;
+  
+    margin-right: 282px
+}
+
+.work-exp .description {
+    font-size: 1rem;
+    margin-top: -1px;
+   
+   
+    text-align: justify;
+    width: 338px;
+} 
+
+.Education .degree {
+    font-size: 1.4rem;
+    text-decoration-line: underline;
+    margin-top: -13px;
+}
+
+.Education .school{
+    font-size: 1.3rem;
+    color: cadetblue;
+    margin-top: -9px;
+}
+
+.Education .date{
+    font-size: 13px;
+    margin-top: -1px;
+}
+
+
+
+.Projects .title1{
+    font-size: 1.4rem;
+    text-decoration-line: underline;
+    margin-top: -11px;
+}
+
+.Projects .overview{
+    text-align: justify;
+    width: 353px; 
+    margin-top: -12px;
+}
+
+.Projects .deployed{
+    color: cadetblue;
+    margin-top: -10px;
+}
+
+.Projects .date {
+    text-align: justify;
+    width: 353px;
+}
+
+.Projects .description {
+    text-align: justify;
+    width: 353px;
+    font-family: sans-serif;
+    font-size: 15px;
+   
+}
